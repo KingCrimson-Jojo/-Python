@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+    background-image: url(https://storage.theoryandpractice.ru/tnp/uploads/image_block/000/045/504/image/base_b186ac9178.gif);
+    background-size: 100%;
+}
+
+
+.textik {
+	font-size: 80px;
+	font-weight: bold;
+	color: rgb(255, 255, 255);
+    border: 40px;
+    border-color: black;
+}
